@@ -1,7 +1,7 @@
 The objective of this program is to detect the position of the mask in real time with the help of a camera, it can predict if you are wearing the mask, or not, and also if you are wearing the mask incorrectly. 
 ![Alt text](../Face-Mask-Label-detection/images/without_mask.JPG?raw=true "without mask")
 ![Alt text](../Face-Mask-Label-detection/images/with_mask.JPG?raw=true "with mask")
-![Alt text](../Face-Mask-Label-detection/images/mask_incorrectly_worn2.JPG?raw=true "with mask")
+![Alt text](../Images/mask_incorrectly_worn2.JPG?raw=true "with mask")
 
 
 
