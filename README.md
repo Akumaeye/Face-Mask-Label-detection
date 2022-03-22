@@ -1,7 +1,7 @@
 The objective of this program is to detect the position of the mask in real time with the help of a camera, it can predict if you are wearing the mask, or not, and also if you are wearing the mask incorrectly. 
-![Alt text](../Face-Mask-Label-detection/images/without_mask.JPG?raw=true "without mask")
-![Alt text](../Face-Mask-Label-detection/images/with_mask.JPG?raw=true "with mask")
-![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/mask_incorrectly_worn2.JPG)
+![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/without_mask.JPG "without mask")
+![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/with_mask.JPG "with mask")
+![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/mask_incorrectly_worn2.JPG "Mask incorrectly worn")
 
 
 
@@ -19,8 +19,8 @@ to run the program please use
     - Convolutional neural network classifier
     - To see result of result of training and the model parametres ,check the jupyter notebook : maskdetection.ipynb
     Training results : 
-![Alt text](../Face-Mask-Label-detection/images/output.JPG?raw=true "Model accuracy")
-![Alt text](../Face-Mask-Label-detection/images/output.JPG?raw=true "Model Loss")
+![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/output.JPG "Model accuracy")
+![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/output.JPG "Model Loss")
 
 
 
