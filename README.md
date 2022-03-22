@@ -17,6 +17,7 @@ to run the program please use
 
 # Learning Model 
     - Convolutional neural network classifier
+    - If you do not want to train the model, download the trained_model folder from this link : https://drive.google.com/drive/folders/1Yea49_WrlgGJr6etNiBzFbZALUNS6xFy?usp=sharing and put it in the main Face-Mask-Label-detection folder. 
     - To see result of training and the model parametres ,check the jupyter notebook : *maskdetection.ipynb*
     Training results : 
 ![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/output.png "Model accuracy")
