@@ -17,7 +17,7 @@ to run the program please use
 
 # Learning Model 
     - Convolutional neural network classifier
-    - To see result of result of training and the model parametres ,check the jupyter notebook : maskdetection.ipynb
+    - To see result of training and the model parametres ,check the jupyter notebook : *maskdetection.ipynb*
     Training results : 
 ![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/output.png "Model accuracy")
 ![Alt text](https://raw.githubusercontent.com/Akumaeye/Face-Mask-Label-detection/master/Images/output2.png "Model Loss")
